@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/Financeiro/admin/DAO/ContaDAO.php</file>
+            <file>file:/C:/xampp/htdocs/Financeiro/admin/DAO/CategoriaDAO.php</file>
+            <file>file:/C:/xampp/htdocs/Financeiro/admin/DAO/BancoDAO.php</file>
+            <file>file:/C:/xampp/htdocs/Financeiro/admin/nova_conta.php</file>
+            <file>file:/C:/xampp/htdocs/Financeiro/admin/Controller/CategoriaCTRL.php</file>
+            <file>file:/C:/xampp/htdocs/Financeiro/admin/alterar_categoria.php</file>
+            <file>file:/C:/xampp/htdocs/Financeiro/admin/novo_banco.php</file>
+            <file>file:/C:/xampp/htdocs/Financeiro/admin/Controller/BancoCTRL.php</file>
+            <file>file:/C:/xampp/htdocs/Financeiro/admin/Controller/EmpresaCTRL.php</file>
+            <file>file:/C:/xampp/htdocs/Financeiro/admin/alterar_empresa.php</file>
+            <file>file:/C:/xampp/htdocs/Financeiro/admin/DAO/Conexao.php</file>
+            <file>file:/C:/xampp/htdocs/Financeiro/admin/consultar_categoria.php</file>
+            <file>file:/C:/xampp/htdocs/Financeiro/admin/consultar_empresa.php</file>
+            <file>file:/C:/xampp/htdocs/Financeiro/admin/DAO/EmpresaDAO.php</file>
+        </group>
+    </open-files>
+</project-private>
